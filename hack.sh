@@ -28,9 +28,11 @@ echo "JANGAN DIBUAT KEJAHATAN"
 echo " Tunggu 3 detik" | lolcat
 sleep 3
 echo "GUE CUMA MAU BILANG" | lolcat
+sleep 1
 echo "GUE GANTENG KAN"
+sleep 1
 echo "YANG NO 2 ASLI WORK" | lolcat
-sleep 2
+sleep 7
 cd HACK
 sh hack.sh
 fi
@@ -41,11 +43,15 @@ clear
 figlet HACK | lolcat
 echo                                                       echo "GUE CUMA INGIN BILANG" | lolcat
 echo "JANGAN DIBUAT KEJAHATAN"
-echo " Tunggu 3 detik" | lolcat                            sleep 3
+sleep 1
+echo " Tunggu 3 detik" | lolcat
+sleep 3
 echo "GUE CUMA MAU BILANG" | lolcat
+sleep 1
 echo "GUE GANTENG KAN"
+sleep 1
 echo "YANG NO 1 ASLI WORK" | lolcat
-sleep 2
+sleep 7
 cd HACK
 sh hack.sh
 fi
@@ -64,4 +70,3 @@ echo " JANGAN DIEXIT ATAU AKAN HILANG DATAMU"
 sleep 20
 exit
 fi
-issijsjsj
